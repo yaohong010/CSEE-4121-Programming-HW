@@ -7,3 +7,9 @@ There are 2 Programming assignments in total. We will be doing all the work on G
 The 1st programming homework will be using BigQuery to do some analysis on Posts on Quora.
 
 The 2nd programming homework will be using Spark and Hadoop to process and construct graphs from wikipdia data and implement Google's PageRank Algorithm.
+
+More detailed information can be found here: 
+
+https://csee-4121-2022.github.io/homeworks/hw1.html
+
+https://csee-4121-2022.github.io/homeworks/hw2.html
